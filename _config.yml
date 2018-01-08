@@ -1,7 +1,7 @@
-title: Your awesome title
-name: Your Name
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+title: To be a Artifitial Intelligence expertise
+name: Hyunjung Kim
+email: hyunjung.kim.uni@gmail.com
+description: It is a beginner's blog who just started to study Artifitial Intelligence.
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
@@ -45,7 +45,7 @@ cookie_accept_message: Thanks!
 
 # Build settings
 markdown: kramdown
-# theme: minima
+theme: jekyll-material-theme
 permalink: pretty
 plugins:
   - jekyll-feed
