@@ -45,7 +45,7 @@ cookie_accept_message: Thanks!
 
 # Build settings
 markdown: kramdown
-theme: jekyll-material-theme
+# theme: jekyll-material-theme
 permalink: pretty
 plugins:
   - jekyll-feed
